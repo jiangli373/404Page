@@ -61,6 +61,7 @@ body{
     background: transparent url(../images/stars.png) repeat-x;
 }
 
+
 .grass {
     z-index: 200;
     position: absolute;
