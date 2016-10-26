@@ -60,7 +60,6 @@ body{
     height: 612px;
     overflow: hidden;
     z-index: 70;
-
     background: transparent url(../images/stars.png) repeat-x;
 
 }
