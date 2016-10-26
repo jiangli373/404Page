@@ -76,6 +76,7 @@ body{
     top: 189px;
     z-index: 200;
 }
+
 .balloon{
     background-image: url(../images/balloon.png);
     width: 273px;
