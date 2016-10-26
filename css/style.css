@@ -59,7 +59,6 @@ body{
     overflow: hidden;
     z-index: 70;
     background: transparent url(../images/stars.png) repeat-x;
-
 }
 .grass {
     z-index: 200;
